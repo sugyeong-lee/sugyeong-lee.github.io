@@ -17,7 +17,7 @@ menu박스 가운데정렬, 글자가운데 정렬 */
 
 #menu {
     font:bold 16px "malgun gothic";   /* 글꼴 malgun gothic*/
-    width: 420px;
+    width: 560px;
     height:50px;
     background: #ccc;
     color:black;
