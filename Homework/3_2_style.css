@@ -1,5 +1,5 @@
 .container{
-    width: 280px;
+    width: 260px;
     margin: 0 auto;
 }
 
@@ -13,7 +13,7 @@ a {
 }
 
 .album{
-    width: 280px;
+    width: 260px;
     height: 400px;
     overflow: hidden;
 }
@@ -26,7 +26,7 @@ a {
 }
 
 img{
-    width: 280px; height: 400px;
+    width: 260px; height: 400px;
 }
 
 button, button:active, button:focus{
